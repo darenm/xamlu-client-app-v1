@@ -3,4 +3,4 @@ This repo will contain initial design thoughts, tasks and prototypes for the XAM
 
 I am initially developing a simple set of APIs and a web site that will allow us to play around with the data in a CosmosDb / DocumentDb repo. We shall see how that goes!
 
-See the [Wiki](Wiki) for more info.
+See the [Wiki](https://github.com/darenm/xamlu-client-app-v1/wiki) for more info.
